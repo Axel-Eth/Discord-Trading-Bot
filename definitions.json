@@ -376,17 +376,13 @@
 
     "Delta": {
 
-      "analogie": "",
+      "definition": "Le delta est la différence entre la somme totale des acheteurs actifs et la somme totale des vendeurs actifs. Un acheteur actif est un personne qui achète directement au prix du marché et qui récupère l'ordre limite d'un vendeur. Et vice versa. Pour une meilleure compréhension de ce que sont les acteurs actifs et passifs du marché, je vous conseille ce short →  https://www.youtube.com/shorts/3YXFZwc2LM8",
 
-      "definition": "",
+      "utilisation": "Le delta s'utilise majoritairement sur les  supports et résistances. Lorsque le prix approche un support ou une résistance, on cherche d'abord une divergence entre le prix et le delta. Par exemple, si le delta est positif et que les prix descendent (ou ne continuent pas à monter), c'est le signe que les vendeurs passifs sont en train d'absorber les acheteurs. Cela annonce peut-être un retournement. Ensuite, on cherche un \"delta rotation\", c'est-à-dire un delta largement positif qui devient subitement largement négatif. C'est le signe qu'après avoir absorbé les acheteurs et les avoir vus capituler, les vendeurs débarquent et prennent l'initiative de vendre pour couler le marché. La plupart du temps, cela est précurseur d'un retournement. Et ça marche aussi dans l'autre sens, avec un delta négatif qui ne pousse pas les prix plus bas, voire même remontent. Puis un delta qui passe rapidement largement positif. C'est un retournement haussier.",
 
-      "importance": "",
+      "exemple": "Delta Rotation → https://drive.google.com/file/d/1eFG63iS5m-0nVtGpJK10DqIcwHgxu6VV/view?usp=sharing / Divergence Delta + Delta Rotation → https://drive.google.com/drive/folders/1OZH8Zrf0LzIBgH2TVqbyoZJsj3PUMiGG → Divergence Delta + Delta Rotation → https://drive.google.com/drive/folders/1OZH8Zrf0LzIBgH2TVqbyoZJsj3PUMiGG",
 
-      "utilisation": "",
-
-      "exemple": "",
-
-      "note": ""
+      "note": "La plupart du temps il n'est pas possible de savoir si un delta largement positif est l'initiative des acheteurs actifs qui poussent les prix à la hausse, ou des vendeurs passifs qui poussent les prix à la baisse. Et pareil pour le delta négatif. De ce fait, l'interpétation du delta est difficile. Anisi, les divergences du delta et delta rotation ne sont utilisées que sur des supports ou des résistances identifiées avec de l'analyse technique. Et non comme outil indépendant. On appelle ça subordonné l'Order Flow à l'analyse technique. C'est l'analyse technique qui donne le contexte et l'Order Flow qui donne le timing."
 
     },
 
@@ -534,7 +530,7 @@
 
     },
 
-    "Imbalance (Fair Value Gap)": {
+    "Imbalance en Analyse Technique (Fair Value Gap)": {
 
       "analogie": "Un imbalance, c'est lorsque la moitié d'un groupe part visiter un monument, sans l'autre moitié. Lorsque le groupe revient, la moitié du groupe qui n'a pas encore visité le monument va dire \"Hoo, vous êtes parti sans nous, nous aussi on aimerait bien visiter le monument!\" Alors tous ensemble, pour faire plaisir au groupe en entier, ils y retournent.",
 
@@ -570,19 +566,34 @@
 
     "CEX (Centralized Exchange)": {
 
-      "analogie": "",
+      "definition": "En cryptomonnaie, il existe deux moyens d'acheter une crypto. Vous pouvez n°1 vous passer par un échangeur (exchange) centralisé que l'on nomme \"CEX\" pour \"Centralized Exchange\". Vous leur donner toutes vos informations personnelles (KYC) pour vérifier que vous êtes bien majeur et que vous n'êtes pas un criminel. Et cet échange va stocker et sécuriser vos cryptos et les cryptos de tout le monde, et s'assurer que vous êtes bien le propriétaire du compte. Soit vous passez par un exchange décentralisé pseudonyme, qui ne vous demande aucune information pour effectuer des transactions, mais qui ne vous protège pas non plus. C'est à vous de sécuriser vos cryptos avec votre propre clé privée ; un hot wallet ou hardware wallet. Les exchanges centralisés (CEX) sont généralement plus faciles à utiliser, mais moins sécurisés. Les échanges décentralisés sont plus sécurisés et offrent beaucoup plus de liberté, mais plus compliqués à utiliser.",
 
-      "definition": "",
+      "importance": "Pour tout trader ou investisseur en cryptomonnaies, il est crucial de bien connaître son environnement et les outils que l'on utilise ; Où sont stockées mes cryptos, quels sont les risques de laisser mes fonds ici ou ailleurs ? Qu'est-ce que j'ai le droit de faire ou de ne pas faire ? Quels sont les avantages et les inconvénients de cet exchange ? Qu'est-ce que je possède réellement ? Etc. ",
 
-      "importance": "",
+      "utilisation": "Pour acheter ou vendre des cryptos via un CEX, choisissez-en un dans la section exemple en dessous, inscrivez-vous, donnez vos informations personnelles et vous pourrez acheter des cryptos via cartes bleues.Si vous avez besoin d'utiliser un exchange centralisé (CEX) pour investir ou pour trader et que vous n'êtes pas déjà client, vous pouvez utiliser les liens affiliés de la section bonus, ça fait toujours plaisir.",
 
-      "utilisation": "",
+      "exemple": "Voici une liste d'exchanges centralisés → Binance, Crypto.com, Kraken, Kucoin, Coinbase, OKX, Bitget, MEXC, Bybit, Bitfinex, Bitsamp, Gemini, Blofin.",
 
-      "exemple": "",
-
-      "note": ""
+      "note": "Pour en savoir plus sur les échangeurs (exchanges) décentralisés pseudonymes, voir la définition de DEX."
 
     },
+
+
+    "DEX (Decentralized Exchange)": {
+
+
+      "definition": "En cryptomonnaie, il existe deux moyens d'acheter une crypto. Vous pouvez n°1 vous passer par un échangeur (exchange) centralisé que l'on nomme \"CEX\" pour \"Centralized Exchange\". Vous leur donner toutes vos informations personnelles pour vérifier que vous êtes bien majeur et que vous n'êtes pas un criminel. Et cet échange va stocker et sécuriser vos cryptos et les cryptos de tout le monde, et s'assurer que vous êtes bien le propriétaire du compte. Soit vous passez par un exchange décentralisé pseudonyme, qui ne vous demande aucune information pour effectuer des transactions, mais qui ne vous protège pas non plus. C'est à vous de sécuriser vos cryptos avec votre propre clé privée ; un hot wallet ou hardware wallet. Les exchanges centralisés (CEX) sont généralement plus faciles à utiliser, mais moins sécurisés. Les échanges décentralisés sont plus sécurisés et offrent beaucoup plus de liberté, mais plus compliqués à utiliser.",
+
+      "importance": "Un DEX permet une liberté totale qui n'est pas permise sur des exchanges centralisés (CEX). Vous pouvez trader sans donner aucune information personnelle, sans limite de retrait, sans limite de dépôt. Vous pouvez utiliser des produits dérivés à effets levier importants qui vous permettent de gagner ou perdre énormément d'argent rapidement. Et ce sans aucune justification. Vous êtes libre d'utiliser toutes les applications qu'offrent les blockchains. Vous pouvez également acheter ou vendre tous les coins qui ne sont pas listés sur les exchanges centralisés ou accéder à des projets récents et rémunérateurs. Personne ne peut geler vos fonds. Et de manière générale, les blockchains étants basées sur du code, tout est quasiment possible. Mais c'est également une jeungle dangereuse, peu régulée ou tout le monde peut créer un token, un NFT ou une application à but malveillante.",
+
+      "utilisation": "Pour utiliser un DEX et échanger vos cryptos de manière pseudonyme, il vous faut un wallet de navigateur (Metamask, Rabby Wallet, Phantom, ...). Ensuite, vous devez passez par une solution centralisée disponible directement depuis les wallets, ou par un CEX (Exchange Centralisé) pour acheter des cryptos avec des euros ou dollars qui seront transférés sur votre wallet. Une fois que votre wallet est plein de cryptomonnaies, vous pouvez vos rendre sur le site internet d'un DEX (voir example) et connecter votre wallet. Vous pourrez alors échanger vos cryptos contre d'autres cryptos, sans aucune information personnelle.",
+
+      "exemple": "Pour voir la liste des DEX cryptos RDV dans la section DEX du Discord / Voici également un docuement qui liste différents DEX ainsi que leurs URLS pour éviter de tomber sur des faux sites internets malveillants → https://docs.google.com/document/d/1IRAEXq8S686OTr5PbGyvcm9ICQfjzinUCl8XNDnk8no",
+
+      "note": "Il existes plusieurs blockchains et certains DEX sont spécifiques à une blockchain. Ce qui n'est pas le cas pour un exchange centralisé qui simplifie la tâche et rassemble tout au même endroit. Pour apprendre à naviguer au milleu des blockchains et des DEX, voici quelques ressources utiles → La Binance Academy propose des articles en Français pour évoluer pas à pas sur les différentes Blockchains → https://academy.binance.com/fr / Les playlists de la chaîne Youtube Hasheur sont bien adaptés aux débutants → https://www.youtube.com/@Hasheur/playlists / Et légèrement dépassé et en anglais, mais tout de même hyper pertienent pour comprendre l'historique des applications sur blockchaines, le livre \"Hot To Defi - Coin Gecko\""
+
+    },
+    
 
     "Long Term Trading": {
 
@@ -602,22 +613,6 @@
 
 
 
-    "DEX (Decentralized Exchange)": {
-
-      "analogie": "",
-
-      "definition": "",
-
-      "importance": "",
-
-      "utilisation": "",
-
-      "exemple": "",
-
-      "note": ""
-
-    },
-    
       "BPR (Balance Price Range)": {
           "analogie": "",
           "definition": "C'est un imbalance dans de l'imbalance, incomming.",
@@ -686,4 +681,3 @@
   
 
   }
-  
