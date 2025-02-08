@@ -684,7 +684,7 @@
   
         "utilisation": "Souvent, le marché chasse notre Stop Loss avant de repartir dans la direction initiale et de finalement atteindre nos cibles. On utilise donc l'ATR pour savoir jusqu'où le prix peut aller à l'opposé de notre trade avant de revenir dans la direction anticipée. Et ainsi placer un SL qui ne sera pas chassé par la volatilité.",
   
-        "exemple": "Tableau rrécapitulatif → https://drive.google.com/drive/folders/1OZH8Zrf0LzIBgH2TVqbyoZJsj3PUMiGG",
+        "exemple": "Tableau rrécapitulatif → https://drive.google.com/file/d/1539RPqafDmdF7PzyTPG9jLSERx_fEsOU/view?usp=sharing",
   
         "note": "Il existe des scripts automatiques qui calculent en continu l'ATR et ajustent automatiquement le SL en fonction de la volatilité. "
   
