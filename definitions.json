@@ -677,17 +677,66 @@
         "note": ""
   
       },
-
-        "ATR (Average True Range)": {
+  
+      "ATR (Average True Range)": {
   
         "definition": "Average True Range, ou Moyenne de la Véritable Amplitude, est la volatilité moyenne d'un actif sur une période donnée. Si au cours de la journée, Bitcoin prend 10 $, puis perd 5 $, puis reprend 15 $, au cours de la journée, Bitcoin a bougé en haut et en bas de 10 $ en moyenne. L'ATR sera de 10 $, c'est la volatilité moyenne.",
   
         "utilisation": "Souvent, le marché chasse notre Stop Loss avant de repartir dans la direction initiale et de finalement atteindre nos cibles. On utilise donc l'ATR pour savoir jusqu'où le prix peut aller à l'opposé de notre trade avant de revenir dans la direction anticipée. Et ainsi placer un SL qui ne sera pas chassé par la volatilité.",
   
-        "exemple": "Tableau rrécapitulatif → https://drive.google.com/file/d/1539RPqafDmdF7PzyTPG9jLSERx_fEsOU/view?usp=sharing",
+        "exemple": "Tableau rrécapitulatif → https://drive.google.com/drive/folders/1OZH8Zrf0LzIBgH2TVqbyoZJsj3PUMiGG",
   
         "note": "Il existe des scripts automatiques qui calculent en continu l'ATR et ajustent automatiquement le SL en fonction de la volatilité. "
+  
+      },
+
+      "FED (Federal Reserve)": {
+  
+        "definition": "La FED (Réserve Fédérale) est la banque centrale des États-Unis.",
+  
+        "importance": "La FED contrôle le dollar US, qui est la monnaie la plus utilisée dans le monde. La FED décide d'affaiblir ou de renforcer le dollar, ce qui influence toute l'économie mondiale.",
+  
+        "utilisation": "Les décisions principales de la FED sont les changements de taux directeurs (peu importe ce que c'est). Ces changements ont lieu toutes les 6 semaines. Pour mieux les comprendre et les utiliser, voir la note FOMC."
+  
+      },
+
+      "FOMC (Federal Open Market Committee)": {
+  
+        "definition": "Le FOMC (Federal Open Market Committee) est une réunion de la FED (Banque Centrale US) qui a lieu toutes les 6 semaines durant lesquelles la FED change ou non de taux directeurs ce qui fait bouger tous les marchés financiers.",
+  
+        "importance": "Il s'agit du moment le plus important pour les marchés financiers. Cela donne le ton pour la direction future du marché. Le jour du FOMC la volatilité sur les marchés est extrême.",
+  
+        "utilisation": "La FED peut monter, baisser ou ne pas toucher aux taux. Généralement, quand la Fed monte les taux cela reforce le dollar ce qui affaiblit les autres monnaies, les actions et les cryptos. À l’inverse, quand la Fed baisse les taux, le dollar s’affaiblit ce qui renforce les autres devises, les action, et les cryptos.",
+  
+        "exemple": "La Fed décide des taux toutes les 6 semaines lors du FOMC (8 réunions par an). Les dates des prochains FOMC sont connues ici → www.federalreserve.gov/monetarypolicy/fomccalendars. Chaque jour de FOMC, la FED annonce sa décision à 14h New York (20h00 Paris) avec un PDF disponible sur le site. Puis 30 minutes plus tard, le président de la FED, donne une conférence de presse pour expliquer la décision. La conférence est diffusée en live sur → www.youtube.com/@federalreserve/featured. Généralement, la publication en elle même n'impacte que peu les marchés, mais le ton du discours lui va être interprété par les traders et secouer le marché."
+  
+      },
+
+      "CPI (Consumer Price Index)": {
+
+        "definition": "Le CPI (Consumer Price Index) montre si les prix des choses de la vie (nourriture, essence, loyers, vêtements, transports, santé, loisirs, éducation, etc) augmente ou baisse (inflation). Si le CPI monte, cela veut dire que tout devient plus cher plus vite, si le CPI ne monte pas, cela veut dire que le prix des choses est stable .",
+  
+        "importance": "L'un des objectifs de la FED (Banque Centrale US) est de maintenir l'inflation pour éviter que la vie des Américains ne coûte trop cher. Si l'inflation (CPI) est trop importante, la FED voudra peut-être baisser les taux d'intérêts pour ralentir l'économie et faire baisser le prix des choses.",
+  
+        "utilisation": "Les traders regardent le CPI pour savoir si l'inflation est forte ou faible. Si l'inflation est élevée, la Fed pourra peut-être augmenter les taux, ce qui ferait peut-être baisser les actions, les monnaies hors dollar US et les cryptos. Et en anticipation de tout ça, les traders vont parier maintenant à la hausse ou à la baisse, ce qui fera bouger le marché bien avant les prochains changements de taux. Et c'est pareil lorsque l'inflation est faible. La FED pourrait baisser les taux, ce qui ferait peut-être monter les actions, les monnaies hors dollar US et les cryptos. En résumé, les chiffres du chômage aident à prédire ce que les banques centrales vont faire et qui pourrait faire bouger le marché, et le marché va bouger en partie maintenant en anticipation des décisions importantes futures. On appelle ça un frontrun.",
+  
+        "note": "Le CPI sont publiés chaque mois, généralement le 10 ou 11, à 8h30 New York, 14h30 France ici → www.bls.gov/cpi Et il est possible de connaître en avance la date et l'heure de la publication des CPI et autres chiffres importants sur le calendrier du Bureau of Labor Statistics (BLS) → www.bls.gov/schedule/2025/02_sched"
+  
+      },
+
+      
+      "BLS": {
+  
+        "definition": "Le Bureau of Labor Statistics (BLS) ou Bureau des Statistiques de l'Emploi est un organisme américain qui publie des chiffres sur l'économie américaine (inflation, chômage et salaires).",
+  
+        "importance": "Ces données aident le gouvernement et la Fed (Banque Centrale US) à comprendre l’état de l’économie américaine et à prendre des décisions pour améliorer cette économie.",
+  
+        "utilisation": "La FED utilise les taux directeurs afin d'essayer de limiter l'inflation (hausse des prix) et maintenir le plein emploi (tout le monde travaille). Ces taux vont faire bouger le prix des actions, obligations et cryptos. Donc, comme les chiffres du BLS (Chômage, Salaires et Inflation) vont influencer les décisions de la FED qui feront elles-mêmes bouger les marchés financiers, les traders suivent les chiffres du BLS pour anticiper les mouvements de marché. Ces traders qui achètent et vendent en aticipant les déscicions de la FED grâce au BLS vont faire bouger les marchés avant même les véritables décisions de la FED. Donc les chiffres du BLS font bouger les marchés financiers.",
+
+  
+        "note": "Le site officiel du BLS qui contient tous les chiffres utiles pour trader les marchés financiers → https://www.bls.gov"
   
       }
 
   }
+  
