@@ -37,8 +37,6 @@ async def lexique(interaction: discord.Interaction, titre: str):
             color=discord.Color.blue()
         )
         # Ajouter les champs si disponibles
-        if "prerequis" in contenu:
-            embed.add_field(name="Prérequis", value=contenu["prerequis"], inline=False)
         if "analogie" in contenu:
             embed.add_field(name="Analogie", value=contenu["analogie"], inline=False)
         if "caracteristiques" in contenu:
