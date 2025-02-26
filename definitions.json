@@ -725,7 +725,7 @@
       },
 
       
-      "BLS": {
+      "BLS ( Bureau of Labor Statistics)": {
   
         "definition": "Le Bureau of Labor Statistics (BLS) ou Bureau des Statistiques de l'Emploi est un organisme américain qui publie des chiffres sur l'économie américaine (inflation, chômage et salaires).",
   
@@ -736,7 +736,22 @@
   
         "note": "Le site officiel du BLS qui contient tous les chiffres utiles pour trader les marchés financiers → https://www.bls.gov"
   
+      },
+
+      "Flash Close": {
+
+        "prerequis": "⚠️ Pour comprendre ce qu'est un flash close il faut d'abord une bonne compréhension du carnet d'ordre et de la contrepartie en trading.",
+  
+        "definition": "Le flash close est un ordre de clôture d'une position prévu pour fermer la position coûte que coûte. Parfois, la contrepartie en face n'est pas suffisante. Par exemple, vous souhaitez revendre 1 Bitcoin à 100 000 $, mais en face il n'y a qu'un acheteur qui ne veut que 0.8 Bitcoin à 100 000 $... Un ordre de clôture marché classique va clôturer 80 000 $ et laisser ouvert les 20 000 $ restants. Un flash close va clôturer les 80 000 $ et le reste des BTC seront revendus coûte que coûte, quitte à  revendre vos Bitcoins à quelqu'un qui ne veut acheter que pour 95 000 $. Vous aurez donc bien clôturé toute votre position, mais avec 0,8 BTC $ à 100 000 $ et 0,2 BTC à 95 000 $. Vous n'aurez donc pas récupérer 100 000 $, mais seulement 99 000 $",
+  
+        "utilisation": "Le flash close est particulièrement utile en situation d'urgence lorsque qu'une news tombe (Hack, Régulation ...), lorsqu'il faut régair très vite (Scalping ...) ou pour rapidement reprendre le contrôle d'une situation qui nous échappe comme lors de période de forte volatilité.",
+  
+        "exemple": "https://drive.google.com/file/d/1Ffs7O7-ZoOctdtttV9mLhrSSTERok8V5",
+  
+        "note": "À ma connaissance, le flash close n'est disponible que sur les exchanges centralisés et suelement une petite partie d'entre eux ; Bitget, MEXC, HTX (anciennement Huobi) et Toolbit."
+  
       }
+  
 
   }
-  
+   
